@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey! 👋
 
-<!--
-**LightNina4095/LightNina4095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **LightNina4095**, a solo developer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Goal: ship something useful every week
+- 🌟 Open source enthusiast
+- 🎨 Code is poetry
+
+## Tech
+
+`Go` `React` `C++` `Emacs` `Laravel` `Sinatra`
+
+---
+
+_Love a good makefile._
